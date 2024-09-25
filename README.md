@@ -33,10 +33,5 @@ Chnage the browser plateform
 
 <div align="center">
 
-
-
-### Made with ❤️ in India.
----
-### You can show some respect by starring 🌟 the repository!
 ---
 </div>

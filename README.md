@@ -31,7 +31,5 @@ Chnage the browser plateform
 <br><br>
 
 
-<div align="center">
 
----
 </div>

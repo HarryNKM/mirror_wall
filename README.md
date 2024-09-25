@@ -32,7 +32,7 @@ Chnage the browser plateform
 
 
 
-<div align="center">
+
 
 
 ### Made with ❤️ in India.

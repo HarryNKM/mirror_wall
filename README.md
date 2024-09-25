@@ -22,13 +22,12 @@ Save bookmarks,
 Chnage the browser plateform
 ## 📲 Screenshots
 
-<img align="left" src=https://github.com/user-attachments/assets/c561fffe-53f9-48fd-94f0-806e07db7d3e  
- width="220px">
-<img align="left" src=https://github.com/user-attachments/assets/97273b3b-33ec-4dc0-9094-48ef7fca03ef
- width="220px">
-<img align="left" src=https://github.com/user-attachments/assets/89dc66bf-c73d-4c51-987c-ad6e9fa538c8
- width="220px">
 
+<img align="left" src= "https://github.com/user-attachments/assets/cfbf5a0b-6ea2-41c4-b07e-886a8bd35a6a" width="220px">
+<img align="left" src="https://github.com/user-attachments/assets/2036120b-b53f-4739-bdc4-6b9d26e6603a" width="220px">
+<img align="left" src="https://github.com/user-attachments/assets/c70c89d4-3ecc-4c42-a449-2e9f39ecbdde" width="220px">
+<img align="left" src="https://github.com/user-attachments/assets/509c4f4d-bdc3-4bdc-b236-6945a43a63f3" width="220px">
+<img align="left" src="https://github.com/user-attachments/assets/96e07cc9-25de-4206-a283-94bfbbe9ecee" width="220px">
 
 <br><br>
 
@@ -36,7 +35,6 @@ Chnage the browser plateform
 
 <div align="center">
 
-<img src="./assets/icons/logo.png" width="200px" height="200px">
 
 ### Made with ❤️ in India.
 ---

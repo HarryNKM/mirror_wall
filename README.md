@@ -26,7 +26,8 @@ Chnage the browser plateform
  width="220px">
 <img align="left" src=https://github.com/user-attachments/assets/97273b3b-33ec-4dc0-9094-48ef7fca03ef
  width="220px">
-<img align="left" src=https://github.com/user-attachments/assets/c8e964e6-68ef-4c7f-a89a-8c71bb26a824 width="220px">
+<img align="left" src=https://github.com/user-attachments/assets/c8e964e6-68ef-4c7f-a89a-8c71bb26a824 
+ width="220px">
 
 
 <br><br>

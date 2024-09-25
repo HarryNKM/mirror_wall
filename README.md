@@ -1,16 +1,44 @@
-# mirror_wall
+<div align="center">
 
-A new Flutter project.
+<img src="./assets/feature_graphic/feature_graphic.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# **Browser App**
+Simple Browser app made with Flutter in India.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🗒 About
+
+This is a simple app made for Safe and Secure Browsing with multiple platforms.
+
+## ⚙️ Features
+Main features are as follows:
+Save bookmarks,
+Chnage the browser plateform
+## 📲 Screenshots
+
+<img align="left" src=https://github.com/user-attachments/assets/c561fffe-53f9-48fd-94f0-806e07db7d3e  
+ width="220px">
+<img align="left" src=https://github.com/user-attachments/assets/97273b3b-33ec-4dc0-9094-48ef7fca03ef
+ width="220px">
+<img align="left" src=https://github.com/user-attachments/assets/c8e964e6-68ef-4c7f-a89a-8c71bb26a824 width="220px">
+
+
+<br><br>
+
+
+
+<div align="center">
+
+<img src="./assets/icons/logo.png" width="200px" height="200px">
+
+### Made with ❤️ in India.
+---
+### You can show some respect by starring 🌟 the repository!
+---
+</div>
